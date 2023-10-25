@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ingredient
+  - IngredientParent
+  - Plate
+  - CuttingTable
+  - IngredientStorageTable
+  - PlateReceiver
+  - PlateReturner
+  - DirtyPlate
+  - SinkTable
+  - TrashBinTable
+  - FxTemporaire
+  - ConTag
+  - OptionTag
+  - StartGameTag
+  - RoomOption
+  - BlankPanel
+  - Score
+  - Character
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - Table
+  - Wall
+  - Ingredient
+  - Placeable
+  - FixedObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
